@@ -13,10 +13,10 @@
 
 ### Colaboradores:
 - **Andrés Rodrigo Andía Jaén**[Andrés]()
-- **Kosmar Hugo Carbajal Laura** [Kosmar](https://github.com/Kosmar_Hu)
+- **Kosmar Hugo Carbajal Laura** [Kosmar]()
 - **Gabriela Farfan Enriquez** [Gabriela](https://github.com/gabrielafarfan1)
 - **Marco Antonio Huaman Lonconi** [Marco]()
-- **Roger Sanga Monrroy** [Roger]()
+- **Roger Sanga Monrroy** [Roger](https://github.com/150406)
 - **Pamela Aracely Villalobos Quispe** [Pamela](https://github.com/Alema2)
 - [Marcelo](https://github.com/MarceloVizcarra) ** Angelo Vizcara Vargas**
 ---
