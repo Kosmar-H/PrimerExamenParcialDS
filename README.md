@@ -21,12 +21,13 @@
 - **Marcelo Angelo Vizcara Vargas** [Marcelo]()
 ---
 ### Implementado en:
-- Lenguaje:  Python
+- Lenguaje:  PHP
 [Obtener Python](https://www.python.org/downloads/)
 
 ### Herramientas:
 - XAMPP 
 - Github, Git
+- Visual Code
 
 ## Introducción:
 El proyecto de Asistente de Tutoria nace a partir de una examen del curso de Desarollo de Sofware I, en el cual se pone en práctica lo aprendido en las clases de teoría y de laboratorio, para el cual se utilizó XAMPP  y Github.
@@ -37,24 +38,15 @@ El proyecto de Asistente de Tutoria nace a partir de una examen del curso de Des
 - Es recomendable contar con conocimientos básicos de programación en PHP.
 
 ## Descripción
-Bienvenidos al repositorio de "Grupo 5" te invitamos a que revises el código. Este es un proyecto que permite h
-
+Bienvenidos al repositorio de "Grupo 5" te invitamos a que revises el código. Este es un proyecto que permite comparar los elementos de dos archivos CSV. Uno que contenga la relación de alumnos matriculados en el semestre actual y otra que contenga la distribución de docente de tutorías del semestre actual. Luego comparar los elementos de ambos archivos segun lo que queramos obtener (relación de alumnos nuevos para hacer tutoria, relación de alumnos que llevaran tutoria en el semestre actual o relación de alumnos que no serán tutorados en el semstre actual), nos mostrara dicha relación.
 ### Documentación
-- Empezamos diseñando los posibles personajes del juego. 
-[![Nave Principal](GitHub "Nave Principal")](https://github.com/miguel789123/grupo-4-team-gabi/blob/main/nuestra_Navee.jpeg "Nave Principal") [![Nave Enemiga](GitHub "Nave Enemiga")](https://github.com/miguel789123/grupo-4-team-gabi/blob/main/nave_enemiga_posicion_2.jpeg "Nave Enemiga")[![Explosión](GitHub "Explosión")](https://github.com/miguel789123/grupo-4-team-gabi/blob/main/MatrizExplosion.jpg "Explosión")
-- Definimos las idea principal del juego.
-- Investigamos más sobre como de hacen juegos en python.
-- Agregamos las funciones respectivas para graficar los monstros y la nave.
--	Cambiamos el diseño de los gráficos del juego.
--	Agregamos las funciones de movimiento en la nave.
--	Agregamos las funciones de movimiento en los monstruos.
--	Revisamos tutoriales en YouTube y documentación, para poder implementar la programación de eventos con la librería pygame.
--	Implementamos el control de movimiento mediante el teclado.
--	Implementamos las funciones de disparo.
--	Implementamos las funciones de colisión.
+- Empezamos evaluando los archivos CSV y como trabajar con ellos en PHP
+- Investigamos más sobre como subir archivos CSV a un formulario.
+-	Cambiamos el diseño del formulario.
+- Revisamos el pseudocodigo que nos fue asignado para adaptarlo a nuestro proyecto
+-	Implementamos las funciones que nos permitian subir archivos CSV.
 ### Trabajo:
-Elegimos un juego al que llamamos SPACE GAME
-- Vamos a tener un main(principal), donde haremos uso de las librerías, definiremos nuestras funciones de colisión, reset game. Al igual que las variables vida, disco y los tiros.
+- Vamos a tener un 
 - Se definió la clase invaders, en el cual graficamos mediante matrices a nuestra nave enemiga, en posición "1 y  2"; el disco, la explosión y la nave con la que jugaremos.
 - Estos personajes se pintará pixel por pixel, cuando el valor de mp[i] [j]=1
 - Se definió la clase shot, que ésta se hará uso para que la nave con la que jugaremos podra  disparar a las naves enemigas.
@@ -65,9 +57,3 @@ Elegimos un juego al que llamamos SPACE GAME
 - La nave con la que jugaremos tiene 4 vidas.
 - Para la nave enemiga se hará uso de for loops, esto para poder multiplicar nuestras naves enemigas. También vimos que se dibujó a la nave enemiga en dos posiciones, como están en las figuras (nave enemiga posición1 y nave enemiga posición 2), esto para poder intercambiar aleatoriamente "la nave enemiga posición 1 y nave enemiga posición 2" y se pueda ver en el juego que la nave enemiga se mueva aleteando y mostrando su cañon.
 - Cuando la nave enemiga  reciba una bala(shot) de nuestra nave, se intercambiará la figura de la nave enemiga mostrando la explosión.
-### Link del juego, publicado en youtube:
--https://www.youtube.com/watch?v=3zddwS7fRdM&feature=youtu.be
-### Mejoras
-- Añadimos el movimiento en el eje Y
-- Añadimos movimiento en diagonal
-- El disco que aparece en la parte superior ahora puede ser destruido
