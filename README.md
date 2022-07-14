@@ -18,7 +18,7 @@
 - [Marco](https://github.com/MarcoAntonioHL) **Antonio Huaman Lonconi**
 - [Roger](https://github.com/150406) **Sanga Monrroy** 
 - [Pamela](https://github.com/Alema2) **Aracely Villalobos Quispe** 
-- [Marcelo](https://github.com/MarceloVizcarra) **Angelo Vizcara Vargas**
+- [Marcelo](https://github.com/MarceloVizcarra) **Angelo Vizcarra Vargas**
 ---
 ### Implementado en:
 - Lenguaje:  PHP, CSS
