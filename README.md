@@ -16,9 +16,9 @@
 - **Kosmar Hugo Carbajal Laura** [Kosmar]()
 - **Gabriela Farfan Enriquez** [Gabriela](https://github.com/gabrielafarfan1)
 - **Marco Antonio Huaman Lonconi** [Marco]()
-- **Roger Sanga Monrroy** [Roger](https://github.com/150406)
+- **Roger Sanga Monrroy** [Roger]()
 - **Pamela Villalobos Quispe** [Pamela]()
-- [Marcelo](https://github.com/MarceloVizcarra) ** Angelo Vizcara Vargas**
+- [Marcelo](https://github.com/MarceloVizcarra) **Angelo Vizcarra Vargas**
 ---
 ### Implementado en:
 - Lenguaje:  PHP, CSS
