@@ -1,4 +1,4 @@
-## **<center>Grupo 4: COMPUTACION GRÁFICA 1</center>**
+## **<center> </center>**
 ### Datos Académicos
 
 - **Universidad:** Universidad Nacional de San Antonio Abad del Cusco
