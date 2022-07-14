@@ -12,12 +12,12 @@
  ****Asistente de Tutoría - Informática****
 
 ### Colaboradores:
-- **Andrés Rodrigo Andía Jaén**[Andrés]()
-- **Kosmar Hugo Carbajal Laura** [Kosmar](https://github.com/Kosmar-Hu)
-- **Gabriela Farfan Enriquez** [Gabriela](https://github.com/gabrielafarfan1)
-- **Marco Antonio Huaman Lonconi** [Marco]()
-- **Roger Sanga Monrroy** [Roger](https://github.com/150406)
-- **Pamela Aracely Villalobos Quispe** [Pamela](https://github.com/Alema2)
+- [Andrés]() **Rodrigo Andía Jaén**
+- [Kosmar](https://github.com/Kosmar-Hu) **Hugo Carbajal Laura** 
+- [Gabriela](https://github.com/gabrielafarfan1) **Farfan Enriquez** 
+- [Marco]() **Antonio Huaman Lonconi**
+- [Roger](https://github.com/150406) **Sanga Monrroy** 
+- [Pamela](https://github.com/Alema2) **Aracely Villalobos Quispe** 
 - [Marcelo](https://github.com/MarceloVizcarra) **Angelo Vizcara Vargas**
 ---
 ### Implementado en:
