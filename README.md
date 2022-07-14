@@ -1,4 +1,4 @@
-## **<center>Grupo 5: Desarollo de Software 1</center>**
+## **<center> Grupo 5: Primer Parcial de Desarrollo de Sofware I  </center>**
 ### Datos Académicos
 
 - **Universidad:** Universidad Nacional de San Antonio Abad del Cusco
@@ -9,14 +9,16 @@
 - **Quintanilla Portugal Roxana Lisette** [Roxana](https://github.com/nitanilla "Roxana")
 
 ### Tema:
- ****SPACE GAME en python****
+ ****Asistente de Tutoría - Informática****
 
 ### Colaboradores:
-- **Gabriela Farfan Enriquez** [Gabi](https://github.com/gabrielafarfan1)
-- **Miguel Angel Quispe Jimenes** [Miguel](https://github.com/miguel7891223 "Miguel")
-- **JoseMaria Hanco** [JoseMaria](https://github.com/josemariahancco "JoseMaria")
-- **Bryan Huillca Moso** [Bryan](https://github.com/BryanHuillcaMozo "Bryan")
-- **Julinho Apaza Paredes** [Julinho](https://github.com/20julinho "Julinho")
+- **Andrés Rodrigo Andía Jaén**[Andrés]()
+- **Kosmar Hugo Carbajal Laura** [Kosmar]()
+- **Gabriela Farfan Enriquez** [Gabriela](https://github.com/gabrielafarfan1)
+- **Marco Antonio Huaman Lonconi** [Marco]()
+- **Roger Huaman Lonconi** [Roger]()
+- **Pamela Villalobos Quispe** [Pamela]()
+- **Marcelo Angelo Vizcara Vargas** [Marcelo]()
 ---
 ### Implementado en:
 - Lenguaje:  Python
