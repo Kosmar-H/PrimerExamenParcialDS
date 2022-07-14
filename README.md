@@ -45,7 +45,7 @@ Bienvenidos al repositorio de "Grupo 5" te invitamos a que revises el código. E
 - Revisamos el pseudocodigo que nos fue asignado para adaptarlo a nuestro proyecto
 -	Implementamos las funciones que nos permitian subir archivos CSV.
 ### Trabajo:
-- Vamos a tener un 
+- Vamos a tener un hola
 - Se definió la clase invaders, en el cual graficamos mediante matrices a nuestra nave enemiga, en posición "1 y  2"; el disco, la explosión y la nave con la que jugaremos.
 - Estos personajes se pintará pixel por pixel, cuando el valor de mp[i] [j]=1
 - Se definió la clase shot, que ésta se hará uso para que la nave con la que jugaremos podra  disparar a las naves enemigas.
