@@ -15,7 +15,7 @@
 - [Andrés]() **Rodrigo Andía Jaén**
 - [Kosmar](https://github.com/Kosmar-Hu) **Hugo Carbajal Laura** 
 - [Gabriela](https://github.com/gabrielafarfan1) **Farfan Enriquez** 
-- [Marco]() **Antonio Huaman Lonconi**
+- [Marco](https://github.com/MarcoAntonioHL) **Antonio Huaman Lonconi**
 - [Roger](https://github.com/150406) **Sanga Monrroy** 
 - [Pamela](https://github.com/Alema2) **Aracely Villalobos Quispe** 
 - [Marcelo](https://github.com/MarceloVizcarra) **Angelo Vizcara Vargas**
@@ -24,7 +24,7 @@
 - Lenguaje:  PHP, CSS
 
 ### Herramientas:
-- XAMPP 
+- XAMPP [XAMPP](https://www.apachefriends.org/es/index.html)
 - Github, Git
 - Visual Code
 
