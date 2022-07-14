@@ -45,14 +45,10 @@ Bienvenidos al repositorio de "Grupo 5" te invitamos a que revises el código. E
 - Revisamos el pseudocodigo que nos fue asignado para adaptarlo a nuestro proyecto
 -	Implementamos las funciones que nos permitian subir archivos CSV.
 ### Trabajo:
-- Vamos a tener un hola
-- Se definió la clase invaders, en el cual graficamos mediante matrices a nuestra nave enemiga, en posición "1 y  2"; el disco, la explosión y la nave con la que jugaremos.
-- Estos personajes se pintará pixel por pixel, cuando el valor de mp[i] [j]=1
-- Se definió la clase shot, que ésta se hará uso para que la nave con la que jugaremos podra  disparar a las naves enemigas.
-- Se definió la clase  shot_invaders la cual  se hará uso para que las naves enemigas, puedan disparar a nuestra nave con la que jugaremos.
-- El juego inicia al presionar la tecla enter.
-- Se dispara al presionar la tecla espacio.
-- los comandos para mover nuestra nave será haciendo el uso de las flechas (<- y ->).
-- La nave con la que jugaremos tiene 4 vidas.
-- Para la nave enemiga se hará uso de for loops, esto para poder multiplicar nuestras naves enemigas. También vimos que se dibujó a la nave enemiga en dos posiciones, como están en las figuras (nave enemiga posición1 y nave enemiga posición 2), esto para poder intercambiar aleatoriamente "la nave enemiga posición 1 y nave enemiga posición 2" y se pueda ver en el juego que la nave enemiga se mueva aleteando y mostrando su cañon.
-- Cuando la nave enemiga  reciba una bala(shot) de nuestra nave, se intercambiará la figura de la nave enemiga mostrando la explosión.
+- Utilizamos 2 inputs de tipo file para poder almacenar temporalmente los archivos csv.
+- Al tener los 2 archivos correctamente seleccionados procederemos a seleccionar unas de las 3 opciones que tenemos.
+- La primera opcion nos mostrara los alumnos que no seran tutorados
+- La segunda opcion nos mostrara los nuevos alumnos(ya sea porquer se esta reincorporando desde antes de tutoria o que sean nuevos ingresantes).
+- La tercera opcion nos mostrara a los lumnos con tutores.
+- Al apretar el boton Buscar nos aparecera un formulario diferente dependiendo de la opcion que se seleccione.
+- (despues de darle a buscar se tiene que volver a ingresar los archivos para una nueva busqueda porque el programa trabaja con archivos temporales).
