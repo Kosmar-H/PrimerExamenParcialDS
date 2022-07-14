@@ -45,6 +45,7 @@ Bienvenidos al repositorio de "Grupo 5" te invitamos a que revises el código. E
 - Revisamos el pseudocodigo que nos fue asignado para adaptarlo a nuestro proyecto
 -	Implementamos las funciones que nos permitian subir archivos CSV.
 ### Trabajo:
+caracteristicas
 - Utilizamos 2 inputs de tipo file para poder almacenar temporalmente los archivos csv.
 - Al tener los 2 archivos correctamente seleccionados procederemos a seleccionar unas de las 3 opciones que tenemos.
 - La primera opcion nos mostrara los alumnos que no seran tutorados
