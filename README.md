@@ -35,7 +35,7 @@ El proyecto de Asistente de Tutoria nace a partir de una examen del curso de Des
 - Es recomendable tener conocimientos previos o manejo de archivos CSV.
 - Un ordenador con conexión a internet para poder instalar todo el software y descargar el material.
 - Es recomendable contar con conocimientos básicos de programación en PHP.
--Guardar la carpeta en htdocs de XAMPP e iniciar APACHE.
+- Guardar la carpeta en htdocs de XAMPP e iniciar APACHE.
 
 ## Descripción
 Bienvenidos al repositorio de "Grupo 5" te invitamos a que revises el código. Este es un proyecto que permite comparar los elementos de dos archivos CSV. Uno que contenga la relación de alumnos matriculados en el semestre actual y otra que contenga la distribución de docente de tutorías del semestre actual. Luego comparar los elementos de ambos archivos segun lo que queramos obtener (relación de alumnos nuevos para hacer tutoria, relación de alumnos que llevaran tutoria en el semestre actual o relación de alumnos que no serán tutorados en el semstre actual), nos mostrara dicha relación.
