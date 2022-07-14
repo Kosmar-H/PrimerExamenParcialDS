@@ -21,8 +21,7 @@
 - **Marcelo Angelo Vizcara Vargas** [Marcelo]()
 ---
 ### Implementado en:
-- Lenguaje:  PHP
-[Obtener Python](https://www.python.org/downloads/)
+- Lenguaje:  PHP, CSS
 
 ### Herramientas:
 - XAMPP 
