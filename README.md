@@ -16,7 +16,7 @@
 - **Kosmar Hugo Carbajal Laura** [Kosmar]()
 - **Gabriela Farfan Enriquez** [Gabriela](https://github.com/gabrielafarfan1)
 - **Marco Antonio Huaman Lonconi** [Marco]()
-- **Roger Huaman Lonconi** [Roger]()
+- **Roger Sanga Monrroy** [Roger]()
 - **Pamela Villalobos Quispe** [Pamela]()
 - **Marcelo Angelo Vizcara Vargas** [Marcelo]()
 ---
