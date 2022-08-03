@@ -38,18 +38,19 @@ El proyecto de Asistente de Tutoria nace a partir de una examen del curso de Des
 - Guardar la carpeta en htdocs de XAMPP e iniciar APACHE.
 
 ## Descripción
-Bienvenidos al repositorio de "Grupo 5" te invitamos a que revises el código. Este es un proyecto que permite comparar los elementos de dos archivos CSV. Uno que contenga la relación de alumnos matriculados en el semestre actual y otra que contenga la distribución de docente de tutorías del semestre actual. Luego comparar los elementos de ambos archivos segun lo que queramos obtener (relación de alumnos nuevos para hacer tutoria, relación de alumnos que llevaran tutoria en el semestre actual o relación de alumnos que no serán tutorados en el semstre actual), nos mostrara dicha relación.
+Bienvenidos al repositorio de "Grupo 5" te invitamos a que revises el código. Este es un proyecto que permite comparar los elementos de archivos CSV. Para ello debemos subir un archivo que contenga la relación de alumnos matriculados en el semestre actual, otro archivo que contenga la lista de docentes para el presente semestre y otra que contenga la distribución de tutorías del semestre anterior. Luego comparar los elementos de ambos archivos segun lo que queramos obtener (relación de alumnos que no serán tutorados en el semestre actual o  la distribución balanceada de tutorías para el presente semestre), nos mostrara dicha relación y los almacenara en archivos CSV.
 ### Documentación
 - Empezamos evaluando los archivos CSV y como trabajar con ellos en PHP
 - Investigamos más sobre como subir archivos CSV a un formulario.
 -	Cambiamos el diseño del formulario.
 - Revisamos el pseudocodigo que nos fue asignado para adaptarlo a nuestro proyecto
 -	Implementamos las funciones que nos permitian subir archivos CSV.
-### Trabajo:
+- Adaptamos el programa para almacenar los datos optenidos en un archivo CSV
+### Trabajo - Guía:
+- Utiliza,os XAMPP para ver la interface del formulario
 - Utilizamos 2 inputs de tipo file para poder almacenar temporalmente los archivos csv.
-- Al tener los 2 archivos correctamente seleccionados procederemos a seleccionar unas de las 3 opciones que tenemos.
-- La primera opcion nos mostrara los alumnos que no seran tutorados
-- La segunda opcion nos mostrara los nuevos alumnos(ya sea porquer se esta reincorporando desde antes de tutoria o que sean nuevos ingresantes).
-- La tercera opcion nos mostrara a los lumnos con tutores.
+- Al tener los 3 archivos correctamente seleccionados procederemos a seleccionar unas de las 2 opciones que tenemos.
+- La primera opcion nos mostrara los alumnos que no seran tutorados y guardara la lista en un archivo CSV
+- La segunda opcion nos mostrara la distribución balanceada de tutorías para el presente semestre y lo almacenara en un archivo CSV
 - Al apretar el boton Buscar nos aparecera un formulario diferente dependiendo de la opcion que se seleccione.
 - (despues de darle a buscar se tiene que volver a ingresar los archivos para una nueva busqueda porque el programa trabaja con archivos temporales).
