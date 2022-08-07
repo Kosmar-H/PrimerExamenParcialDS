@@ -52,5 +52,5 @@ Bienvenidos al repositorio de "Grupo 5" te invitamos a que revises el código. E
 - Al tener los 3 archivos correctamente seleccionados procederemos a seleccionar unas de las 2 opciones que tenemos.
 - La primera opcion nos mostrara los alumnos que no seran tutorados y guardara la lista en un archivo CSV
 - La segunda opcion nos mostrara la distribución balanceada de tutorías para el presente semestre y lo almacenara en un archivo CSV
-- Al apretar el boton Buscar nos aparecera un formulario diferente dependiendo de la opcion que se seleccione.
+- Al apretar el boton "Crear CSV" nos aparecera un formulario diferente dependiendo de la opcion que se seleccione.
 - (despues de darle a buscar se tiene que volver a ingresar los archivos para una nueva busqueda porque el programa trabaja con archivos temporales).
