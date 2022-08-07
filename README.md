@@ -5,8 +5,9 @@
 - **Facultad:** Facultad de Ingeniería Eléctrica, Electrónica, Informática y Mecánica
 - **Escuela Profesional:** Ingeniería Informática y de Sistemas
 
-### Docente:
+### Docentes:
 - **Quintanilla Portugal Roxana Lisette** [Roxana](https://github.com/nitanilla "Roxana")
+- **Vittali Quispe Surco**
 
 ### Tema:
  ****Asistente de Tutoría - Informática****
@@ -25,8 +26,8 @@
 
 ### Herramientas:
 - XAMPP [XAMPP](https://www.apachefriends.org/es/index.html)
+- Visual Code Studio [Visual] (https://code.visualstudio.com)
 - Github, Git
-- Visual Code
 
 ## Introducción:
 El proyecto de Asistente de Tutoria nace a partir de una examen del curso de Desarollo de Sofware I, en el cual se pone en práctica lo aprendido en las clases de teoría y de laboratorio, para el cual se utilizó XAMPP  y Github.
