@@ -26,7 +26,7 @@
 
 ### Herramientas:
 - XAMPP [XAMPP](https://www.apachefriends.org/es/index.html)
-- Visual Code Studio [Visual] (https://code.visualstudio.com)
+- Visual Code Studio [Visual](https://code.visualstudio.com)
 - Github, Git
 
 ## Introducción:
