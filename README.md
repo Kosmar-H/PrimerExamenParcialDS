@@ -47,7 +47,7 @@ Bienvenidos al repositorio de "Grupo 5" te invitamos a que revises el código. E
 -	Implementamos las funciones que nos permitian subir archivos CSV.
 - Adaptamos el programa para almacenar los datos optenidos en un archivo CSV
 ### Trabajo - Guía:
-- Utiliza,os XAMPP para ver la interface del formulario
+- Utilizamos XAMPP para ver la interface del formulario
 - Utilizamos 2 inputs de tipo file para poder almacenar temporalmente los archivos csv.
 - Al tener los 3 archivos correctamente seleccionados procederemos a seleccionar unas de las 2 opciones que tenemos.
 - La primera opcion nos mostrara los alumnos que no seran tutorados y guardara la lista en un archivo CSV
