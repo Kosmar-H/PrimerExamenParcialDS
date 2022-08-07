@@ -1,4 +1,4 @@
-## **<center> Grupo 5: Primer Parcial de Desarrollo de Sofware I  </center>**
+## **<center> Grupo 5: Tarea 07 de Desarrollo de Sofware I  </center>**
 ### Datos Académicos
 
 - **Universidad:** Universidad Nacional de San Antonio Abad del Cusco
@@ -30,7 +30,7 @@
 - Github, Git
 
 ## Introducción:
-El proyecto de Asistente de Tutoria nace a partir de una examen del curso de Desarollo de Sofware I, en el cual se pone en práctica lo aprendido en las clases de teoría y de laboratorio, para el cual se utilizó XAMPP  y Github.
+El proyecto de Asistente de Tutoria nace a partir de un examen del curso de Desarollo de Sofware I, en el cual se pone en práctica lo aprendido en las clases de teoría y de laboratorio, para el cual se utilizó XAMPP  y Github.
 
 ## Requisitos:
 - Es recomendable tener conocimientos previos o manejo de archivos CSV.
