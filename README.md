@@ -49,9 +49,10 @@ Bienvenidos al repositorio de "Grupo 5" te invitamos a que revises el código. E
 ### Trabajo - Guía:
 - Utilizamos XAMPP para ver la interface del formulario
 - Utilizamos 2 inputs de tipo file para poder almacenar temporalmente los archivos csv.
+- Los archivos CSV (alumno, docente y distribución) se importaran desde la carpeta "complementos"
 - Al tener los 3 archivos correctamente seleccionados procederemos a seleccionar unas de las 2 opciones que tenemos.
 - La primera opcion nos mostrara los alumnos que no seran tutorados y guardara la lista en un archivo CSV
 - La segunda opcion nos mostrara la distribución balanceada de tutorías para el presente semestre y lo almacenara en un archivo CSV
 - Al apretar el boton "Crear CSV" nos aparecera un formulario diferente dependiendo de la opcion que se seleccione.
 - (despues de darle a "Crear CSV" se tiene que volver a ingresar los archivos para una nueva busqueda porque el programa trabaja con archivos temporales).
-- Los archivos CSV (alumno, docente y distribución) se importaran desde la carpeta "complementos"
+- Los nuevos archivos (Distribucion Balanceada, No Matriculados) se crearan/guardaran en la misma carpeta del proyecto
