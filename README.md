@@ -7,7 +7,7 @@
 
 ### Docentes:
 - **Quintanilla Portugal Roxana Lisette** [Roxana](https://github.com/nitanilla "Roxana")
-- **Vittali Quispe Surco**
+- **Quispe Surco Vittali**
 
 ### Tema:
  ****Asistente de Tutoría - Informática****
